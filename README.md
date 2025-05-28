@@ -133,4 +133,22 @@
    - Service
    - Gera csv
 
+💡 Dica de uso para destacar no terminal
+Você pode usar símbolos visuais como:
+
+✅ (check ok)
+
+⚠️ (alerta/atenção)
+
+❌ (erro)
+
+ℹ️ (informação)
+
+⏳ (processando)
+
+🔄 (repetindo)
+
+🔍 (buscando)
+
+📝 (log)
 
