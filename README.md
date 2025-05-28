@@ -22,6 +22,7 @@
 ## requisitos
    - Instalar o Tesseract-OCR 
    - Instalar o python na maquina
+   - bibliotecas do bibliotecas
    - Instalar bibliotecas Python
    - Criar o script Python extrair_tabela.py
    - E ter um arquivo pdf para testes.
@@ -29,13 +30,21 @@
 
 ## Passo 01 Instalar o python.
   - Faça o download e instale https://www.python.org/downloads/release/python-3132/
-  - Versão utilizada aqui foi a 3.13
+  - Versão utilizada aqui foi a 3.13 python-3.13.3-amd64.exe *Windows*
   - Para prosseguir deixa como mostra a imagem abaixo.
 
   <p align="center">
   <img src="https://github.com/EduardoNofre/extracao-tabelas-pdf/blob/main/03.png"/>  
 </p>
 
+## Passo 02 Instalar as bibliotecas necessarias do python.
+   - Execute o seguinte comando.
+   - *pip install pdfplumber pytesseract pillow opencv-python*
+
+## Passo 03 Instalar Tesseract-OCR.
+  - Faça o download  e instale https://github.com/UB-Mannheim/tesseract/wiki
+  - Versão utilizada aqui foi a 3tesseract-ocr-w64-setup-5.5.0.20241111.exe para *Windows*
+  - next,next e finish.
 
 ## Passo 01 - Criar o script Python com o nome extrair_tabela.py
 
