@@ -1,8 +1,3 @@
-
-
-![sonar](apresentador bancada .png)
-
-
 <h1 align="center"> 
   Extracao de tabela arquivo pdf 
 </h1>
