@@ -46,7 +46,7 @@
   - Versão utilizada aqui foi a 3tesseract-ocr-w64-setup-5.5.0.20241111.exe para *Windows*
   - next,next e finish.
 
-## Passo 01 - Criar o script Python com o nome extrair_tabela.py
+## Passo 04 - Criar o script Python com o nome extrair_tabela.py
 
             import sys
             import logging
@@ -93,7 +93,7 @@
                 pdf_path = sys.argv[1]
                 print(extract_tables_from_pdf(pdf_path))
 
-## Passo 02 - Classe Java para executar o script
+## Passo 05 - Classe Java para executar o script
 
               import java.io.*;
               
