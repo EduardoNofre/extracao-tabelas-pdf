@@ -136,18 +136,75 @@
 💡 Dica de uso para destacar no terminal
 Você pode usar símbolos visuais como:
 
-✅ (check ok)
+✅ Status e Resultados
+Emoji	Significado
+✅	Sucesso, operação concluída
+❌	Erro, falha
+⚠️	Alerta, atenção
+ℹ️	Informação
+⏳	Em andamento, aguardando
+🔄	Tentando novamente, processo em loop
+🔁	Repetição
+⏹️	Parado
+⏯️	Pausado
+⏱️	Cronômetro, tempo decorrido
+🚫	Proibido, acesso negado
+🛑	Parada crítica
 
-⚠️ (alerta/atenção)
+🧪 Processos e Execução
+Emoji	Significado
+🧪	Teste
+🧹	Limpeza de arquivos/temp
+📦	Instalação de pacotes
+🔧	Ajustes, configuração
+🔍	Verificando, analisando
+🧰	Ferramentas, utilitários
 
-❌ (erro)
+📂 Arquivos e Diretórios
+Emoji	Significado
+📂	Abrindo pasta
+📁	Diretório
+📄	Documento
+🗃️	Arquivo armazenado
+🗑️	Arquivo excluído
+📝	Anotação ou log
 
-ℹ️ (informação)
+🔐 Segurança e Permissões
+Emoji	Significado
+🔒	Acesso restrito
+🔓	Acesso liberado
+🛡️	Segurança ativada
+🚨	Alerta de segurança ou violação
 
-⏳ (processando)
+🧠 Lógica e Controle
 
-🔄 (repetindo)
+Emoji	Significado
+🧠	Decisão ou lógica
+🎯	Alvo atingido
+🔀	Caminho alternativo
+🧭	Navegação no código ou estrutura
 
+🔔 Notificações e Eventos
+Emoji	Significado
+🔔	Notificação ativada
+🔕	Notificação desativada
+📣	Mensagem importante
+📢	Broadcast
+
+🧭 Ambiente e Contexto
+Emoji	Significado
+🌐	Requisição web ou rede
+📡	Comunicação, API
+🌍	Ambiente global
+🖥️	Ambiente local/desktop
+☁️	Cloud/Servidor
+
+💡 Dicas e Informações
+Emoji	Significado
+💡	Dica
+🧾	Documentação
+❓	Ajuda necessária
+❗	Atenção extra
 🔍 (buscando)
 
 📝 (log)
