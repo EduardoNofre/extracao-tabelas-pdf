@@ -136,76 +136,75 @@
 💡 Dica de uso para destacar no terminal
 Você pode usar símbolos visuais como:
 
-✅ Status e Resultados
-Emoji	Significado
-✅	Sucesso, operação concluída
-❌	Erro, falha
-⚠️	Alerta, atenção
-ℹ️	Informação
-⏳	Em andamento, aguardando
-🔄	Tentando novamente, processo em loop
-🔁	Repetição
-⏹️	Parado
-⏯️	Pausado
-⏱️	Cronômetro, tempo decorrido
-🚫	Proibido, acesso negado
-🛑	Parada crítica
+✅ Status e Resultados<br>
+Emoji	Significado<br>
+✅	Sucesso, operação concluída<br>
+❌	Erro, falha<br>
+⚠️	Alerta, atenção<br>
+ℹ️	Informação<br>
+⏳	Em andamento, aguardando<br>
+🔄	Tentando novamente, processo em loop<br>
+🔁	Repetição<br>
+⏹️	Parado<br>
+⏯️	Pausado<br>
+⏱️	Cronômetro, tempo decorrido<br>
+🚫	Proibido, acesso negado<br>
+🛑	Parada crítica<br>
 
-🧪 Processos e Execução
-Emoji	Significado
-🧪	Teste
-🧹	Limpeza de arquivos/temp
-📦	Instalação de pacotes
-🔧	Ajustes, configuração
-🔍	Verificando, analisando
-🧰	Ferramentas, utilitários
+🧪 Processos e Execução<br>
+Emoji	Significado<br>
+🧪	Teste<br>
+🧹	Limpeza de arquivos/temp<br>
+📦	Instalação de pacotes<br>
+🔧	Ajustes, configuração<br>
+🔍	Verificando, analisando<br>
+🧰	Ferramentas, utilitários<br>
 
-📂 Arquivos e Diretórios
-Emoji	Significado
-📂	Abrindo pasta
-📁	Diretório
-📄	Documento
-🗃️	Arquivo armazenado
-🗑️	Arquivo excluído
-📝	Anotação ou log
+📂 Arquivos e Diretórios<br>
+Emoji	Significado<br>
+📂	Abrindo pasta<br>
+📁	Diretório<br>
+📄	Documento<br>
+🗃️	Arquivo armazenado<br>
+🗑️	Arquivo excluído<br>
+📝	Anotação ou log<br>
 
-🔐 Segurança e Permissões
-Emoji	Significado
-🔒	Acesso restrito
-🔓	Acesso liberado
-🛡️	Segurança ativada
-🚨	Alerta de segurança ou violação
+🔐 Segurança e Permissões<br>
+Emoji	Significado<br>
+🔒	Acesso restrito<br>
+🔓	Acesso liberado<br>
+🛡️	Segurança ativada<br>
+🚨	Alerta de segurança ou violação<br>
 
-🧠 Lógica e Controle
+🧠 Lógica e Controle<br>
 
-Emoji	Significado
-🧠	Decisão ou lógica
-🎯	Alvo atingido
-🔀	Caminho alternativo
-🧭	Navegação no código ou estrutura
+Emoji	Significado<br>
+🧠	Decisão ou lógica<br>
+🎯	Alvo atingido<br>
+🔀	Caminho alternativo<br>
+🧭	Navegação no código ou estrutura<br>
 
-🔔 Notificações e Eventos
-Emoji	Significado
-🔔	Notificação ativada
-🔕	Notificação desativada
-📣	Mensagem importante
-📢	Broadcast
+🔔 Notificações e Eventos<br>
+Emoji	Significado<br>
+🔔	Notificação ativada<br>
+🔕	Notificação desativada<br>
+📣	Mensagem importante<br>
+📢	Broadcast<br>
 
-🧭 Ambiente e Contexto
-Emoji	Significado
-🌐	Requisição web ou rede
-📡	Comunicação, API
-🌍	Ambiente global
-🖥️	Ambiente local/desktop
-☁️	Cloud/Servidor
+🧭 Ambiente e Contexto<br>
+Emoji	Significado<br>
+🌐	Requisição web ou rede<br>
+📡	Comunicação, API<br>
+🌍	Ambiente global<br>
+🖥️	Ambiente local/desktop<br>
+☁️	Cloud/Servidor<br>
 
-💡 Dicas e Informações
-Emoji	Significado
-💡	Dica
-🧾	Documentação
-❓	Ajuda necessária
-❗	Atenção extra
-🔍 (buscando)
-
-📝 (log)
+💡 Dicas e Informações<br>
+Emoji	Significado<br>
+💡	Dica<br>
+🧾	Documentação<br>
+❓	Ajuda necessária<br>
+❗	Atenção extra<br>
+🔍 (buscando)<br>
+📝 (log)<br>
 
