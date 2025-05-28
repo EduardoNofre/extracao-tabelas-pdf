@@ -20,5 +20,6 @@
 3 - lombok.<br>
 4 - Spring boot 3.4.5.<br>
 5 - Python script
+6 - micro-serviço
 
 # Um exemplo simples de como extrair dados do PDF.
