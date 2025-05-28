@@ -29,7 +29,7 @@
      
 # Passo a Passo 
 
-## Passo 01: Instalar o python.
+## Passo 01: Instalar o Python.
   - Faça o download e instale https://www.python.org/downloads/release/python-3132/
   - Versão utilizada aqui foi a 3.13 python-3.13.3-amd64.exe *Windows*
   - Para prosseguir deixa como mostra a imagem abaixo.
@@ -38,7 +38,7 @@
   <img src="https://github.com/EduardoNofre/extracao-tabelas-pdf/blob/main/03.png"/>  
 </p>
 
-## Passo 02: Instalar as bibliotecas necessarias do python.
+## Passo 02: Instalar as bibliotecas necessarias do Python.
    - Execute o seguinte comando.
    - *pip install pdfplumber pytesseract pillow opencv-python*
 
