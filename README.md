@@ -26,6 +26,17 @@
    - Criar o script Python extrair_tabela.py
    - E ter um arquivo pdf para testes.
 # Passo a Passo 
+
+## Passo 01 Instalar o python.
+  - Faça o download e instale https://www.python.org/downloads/release/python-3132/
+  - Versão utilizada aqui foi a 3.13
+  - Para prosseguir deixa como mostra a imagem abaixo.
+
+  <p align="center">
+  <img src="https://github.com/EduardoNofre/extracao-tabelas-pdf/blob/main/03.png"/>  
+</p>
+
+
 ## Passo 01 - Criar o script Python com o nome extrair_tabela.py
 
             import sys
