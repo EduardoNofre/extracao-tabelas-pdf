@@ -31,7 +31,7 @@
    - Criar o script Python extrair_tabela.py
    - E ter um arquivo pdf para testes.
 # Passo a Passo 
-## Criar o script Python com o nome extrair_tabela.py
+## Passo 01 - Criar o script Python com o nome extrair_tabela.py
 
             import sys
             import logging
@@ -78,5 +78,39 @@
                 pdf_path = sys.argv[1]
                 print(extract_tables_from_pdf(pdf_path))
 
+## Passo 02 - Classe Java para executar o script
+
+              import java.io.*;
+              
+              public class PdfTableExtractor {
+              
+                  public static void main(String[] args) {
+                      String pdfPath = "C:\\caminho\\para\\seu\\arquivo.pdf"; // Altere aqui
+                      String pythonScriptPath = "C:\\caminho\\para\\extract_tables.py"; // Altere aqui
+              
+                      try {
+                          ProcessBuilder pb = new ProcessBuilder("python", pythonScriptPath, pdfPath);
+                          pb.redirectErrorStream(true); // Captura erros junto com saída padrão
+              
+                          Process process = pb.start();
+                          BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()));
+              
+                          String line;
+                          System.out.println("📄 Tabelas extraídas:");
+                          while ((line = reader.readLine()) != null) {
+                              System.out.println(line);
+                          }
+              
+                          int exitCode = process.waitFor();
+                          if (exitCode != 0) {
+                              System.out.println("⚠️ Ocorreu um erro ao executar o script Python.");
+                          }
+              
+                      } catch (IOException | InterruptedException e) {
+                          e.printStackTrace();
+                      }
+                  }
+              }
+  
 
 
